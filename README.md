@@ -13,35 +13,35 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Better-Anime-
 ## Features
 
 - Player:
-  - Show Players - Toggle player visibility
-  - Player Info - Detailed player information (coins, kills, wins, equipment)
-  - Anti Fling - Protection against fling attacks
-  - ESP (Line) - Lines pointing to other players
-  - Noclip - Walk through walls
-  - Tag VIP - Activate VIP tag
-  - Infinite Jump - Unlimited jumping
-  - Speed - Increased movement speed
+  - Show Players: Toggle player visibility
+  - Player Info: Detailed player information (coins, kills, wins, equipment)
+  - Anti Fling: Protection against fling attacks
+  - ESP (Line): Lines pointing to other players
+  - Noclip: Walk through walls
+  - Tag VIP: Activate VIP tag
+  - Infinite Jump: Unlimited jumping
+  - Speed: Increased movement speed
 
 - Teleport:
 
-  - Blue - Teleport to blue area
-  - Red - Teleport to red area
-  - Lobby - Teleport to lobby
+  - Blue: Teleport to blue area
+  - Red: Teleport to red area
+  - Lobby: Teleport to lobby
 
 - Characters:
 
-  - 263 Anime Characters - Complete character roster
-  - Search System - Find characters by name or number
-  - Quick Send - Send character combinations
-  - Mass Send - Automatically send all characters
+  - 263 Anime Characters: Complete character roster
+  - Search System: Find characters by name or number
+  - Quick Send: Send character combinations
+  - Mass Send: Automatically send all characters
 
 - Settings:
 
-  - Server Hop - Automatically switch servers
-  - Rejoin - Rejoin current server
+  - Server Hop: Automatically switch servers
+  - Rejoin: Rejoin current server
 
 ## Status
-- **Version:** 0.1.0
+- Version: 0.1.0
 
 ## Developers
 - Creator: ThawaBr
