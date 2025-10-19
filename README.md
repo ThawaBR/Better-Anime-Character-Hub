@@ -1,6 +1,6 @@
 # Better-Anime-Character-Hub
 
-Track anime characters and access advanced features in one hub.
+Access all anime characters and advanced features in a single hub.
 
 ## How to use
 
