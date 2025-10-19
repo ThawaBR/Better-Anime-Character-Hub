@@ -7,7 +7,7 @@ Access all anime characters and advanced features in a single hub.
 Copy and paste this code into your executor:
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/BetterCharacterHub/main/source"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Better-Anime-Character-Hub/main/source"))()
 ```
 
 ## Features
