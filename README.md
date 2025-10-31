@@ -11,7 +11,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Better-Anime-
 ```
 
 ## Features
-
 - Player:
   - Show Players: Toggle player visibility
   - Player Info: Detailed player information (coins, kills, wins, equipment)
@@ -25,20 +24,17 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Better-Anime-
   - Auto Collect Candy
 
 - Teleport:
-
   - Blue: Teleport to blue area
   - Red: Teleport to red area
   - Lobby: Teleport to lobby
 
 - Characters:
-
   - 263 Anime Characters: Complete character roster
   - Search System: Find characters by name or number
   - Quick Send: Send character combinations
   - Mass Send: Automatically send all characters
 
 - Settings:
-
   - Server Hop: Automatically switch servers
   - Rejoin: Rejoin current server
 
