@@ -29,7 +29,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ThawaBR/Better-Anime-
   - Lobby: Teleport to lobby
 
 - Characters:
-  - 263 Anime Characters: Complete character roster
+  - 269 Anime Characters: Complete character roster
   - Search System: Find characters by name or number
   - Quick Send: Send character combinations
   - Mass Send: Automatically send all characters
